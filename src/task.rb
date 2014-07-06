@@ -1,7 +1,7 @@
 
 # getting file name to import
 
-puts "please type file name to import"
+print "please type file name to import \n>"
 
 #use chomp to delete newline characher
 file_name = gets().chomp
